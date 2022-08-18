@@ -1,0 +1,15 @@
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.exe
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.deps.json
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.runtimeconfig.json
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.dll
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\bin\Debug\net6.0\Examples001_HelloWorld.pdb
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.AssemblyReference.cache
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfoInputs.cache
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.AssemblyInfo.cs
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.csproj.CoreCompileInputs.cache
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.dll
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\refint\Examples001_HelloWorld.dll
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.pdb
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\Examples001_HelloWorld.genruntimeconfig.cache
+F:\Обучение. Разработчик. GEEKBRAINS\С#\Examples\Examples001_HelloWorld\obj\Debug\net6.0\ref\Examples001_HelloWorld.dll
